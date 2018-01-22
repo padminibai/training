@@ -37,4 +37,4 @@ print("reverse list:",list)
 list.clear()
 #clear list
 print("clear list:",list)
-
+print("total no :",len(list))
