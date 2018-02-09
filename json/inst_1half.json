@@ -1304,12 +1304,65 @@
                                                                                             "Central Agricultural University,Manipur",
                                                                                             "Central Agricultural University (CAU),Imphal",
                                                                                             "Central Agricultural University (CAU),Manipur"],
-"acronym":"CAU","federation":"UGC","city":"Imphal","alt-city":"","District":" Imphal West","state":"Manipur"}
+"acronym":"CAU","federation":"UGC","city":"Imphal","alt-city":"","District":"Imphal West","state":"Manipur"}
+{"id":5817,"apID":"APINS00000","name":"Manipur University,Imphal","alt-name":["Manipur University Canchipur,Imphal",
+                                                                               "Manipur Central University,Manipur",
+                                                                               "Manipur Central University (CAU),Imphal"],
+"acronym":"","federation":"UGC","city":"Imphal","alt-city":"","District":"Imphal","state":"Manipur"}
 
 
+{"id":7492,"apID":"APINS00000","name":"North Eastern Hill University,Shillong","alt-name":["North Eastern Hill University,East Khasi Hills",
+                                                                                           "North Eastern Hill University,Meghalaya",
+                                                                                           "NEHU,East Khasi Hills",
+                                                                                            "NEHU,Meghalaya"],
+"acronym":"NEHU","federation":"UGC","city":"Shillong","alt-city":"","District":"East Khasi Hills","state":"Meghalaya"},
 
 
-
+{"id":2696,"apID":"APINS00000","name":"Mizoram University,Aizawl","alt-name":["Mizoram University,Mizoram",
+                                                                               "Mizoram Central University,Aizawl",
+                                                                                "Mizoram Central University,Mizoram",
+                                                                                 "MZU,Aizawl",
+                                                                                "MZU,Mizoram"],
+"acronym":"MZU","federation":"UGC","city":"Aizawl","alt-city":"","District":"Aizawl","state":"Mizoram"}
+{"id":12352,"apID":"APINS00000","name":"Central Agricultural University,Aizawl","alt-name":["College of Veterinary Sciences & Animal Husbandry Central Agricultural University Selesih, Aizawl",
+                                                                                            "College of Fisheries Central Agricultural University,Aizawl",
+                                                                                            "Central Agricultural University (CAU),Aizawl",
+                                                                                            "Central Agricultural University (CAU),Mizoram"],
+"acronym":"CAU","federation":"UGC","city":"Aizawl","alt-city":"","District":"Aizawl","state":"Mizoram"}
+{"id":26188,"apID":"APINS00000","name":"Nagaland University,Zunheboto","alt-name":["Nagaland University,Nagaland",
+                                                                               "Nagaland Central University,Zunheboto",
+                                                                                "Nagaland Central University,Nagaland",
+                                                                                 "NU,Zunheboto",
+                                                                                 "NU,Nagaland",
+                                                                                "Nagaland University (Central),Zunheboto",
+                                                                                "Nagaland University (Central),Nagaland"],
+"acronym":"NU","federation":"UGC","city":"Zunheboto","alt-city":"","District":"Zunheboto","state":"Nagaland"}
+{"id":5189,"apID":"APINS00000","name":"Central University of Orissa,Koraput","alt-name":["Central University of Orissa,Odisha",
+                                                                                         "Central University of Orissa,Orissa",
+                                                                                         "CUO,Koraput",
+                                                                                         "CUO,Odisha"],
+"acronym":"CUO","federation":"UGC","city":"Koraput","alt-city":"","District":"Koraput","state":"Odisha","alt-state":"Orissa"}
+{"id":15842,"apID":"APINS00000","name":"Central University of Punjab,Bhatinda","alt-name":["Central University of Punjab,Punjab",
+                                                                                         "CUPB,Bathinda",
+                                                                                         "CUPB,Punjab"],
+"acronym":"CUPB","federation":"UGC","city":"Bathinda","alt-city":"","District":"Bathinda","state":"Punjab"}
+{"id":637,"apID":"APINS00000","name":"Central University of Rajasthan,Kishangarh","alt-name":["Central University of Rajasthan,Rajasthan",
+                                                                                                "CURAJ,Kishangarh",
+                                                                                                "CURAJ,Ajmer",
+                                                                                                "CURAJ,Rajasthan"],
+"acronym":"CURAJ","federation":"UGC","city":"Kishangarh","alt-city":"","District":"Ajmer","state":"Rajasthan"}
+{"id":29481,"apID":"APINS00000","name":"Sikkim Manipal University,Gangtok","alt-name":["Sikkim- Manipal University,Gangtok",
+                                                                                        "Sikkim Manipal University,East Sikkim",
+                                                                                        "Sikkim Manipal University(DE),Sikkim",
+                                                                                        "SMU,Gangtok",
+                                                                                         "SMU,East Sikkim",
+                                                                                         "SUM,Sikkim"],
+"acronym":"SMU","federation":"UGC","city":"Gangtok","alt-city":"","District":"East Sikkim","state":"Sikkim"}
+{"id":756,"apID":"APINS00000","name":"Sikkim University,Gangtok","alt-name":["Sikkim Central University,Gangtok",
+                                                                              "Sikkim Central University,East Sikkim",
+                                                                                "Sikkim Central University,Sikkim",
+                                                                                "Sikkim University Tadong,Gangtok"],
+"acronym":"","federation":"UGC","city":"Gangtok","alt-city":"","District":"East Sikkim","state":"Sikkim"}
 
 
 
