@@ -533,7 +533,7 @@
 "acronym":"IIST","federation":"Deemed","city":"Thiruvananthapuram","alt-city":"Trivandrum","District":"Thiruvananthapuram","state":"Kerala"}
 {"id":,"apID":"APINS00000","name":"Kerala Kalamandalam,Thrissur","alt-name":["Kerala Kalamandalam,Trichur",
                                                                              "Kerala Kalamandalam,Kerala",
-                                                                            "Kerala Kalamandalam Deemed University of Art and Culture,Thrissur"",       
+                                                                            "Kerala Kalamandalam Deemed University of Art and Culture,Thrissur",       
                                                                              "Kerala Kalamandalam Deemed University of Art and Culture,Trichur",
                                                                              "Kerala Kalamandalam Deemed University of Art and Culture,Kerala"],
 "acronym":"","federation":"Deemed","city":"Thrissur","alt-city":"Trichur","District":"Thrissur","state":"Kerala"}
@@ -589,11 +589,11 @@
                                                                                 "Jain University, Ramanagara"],
 "acronym":"JU","federation":"Deemed","city":"Bengaluru","alt-city":"Bangalore","District":"Bengaluru","state":"Karnataka"}
 {"id":4272,"apID":"APINS00000","name":"Jawaharlal Nehru Centre for Advanced Scientific Research,Bengaluru","alt-name":["India Jawaharlal Nehru Centre for Advanced Scientific Research,Bengaluru"
-                                                                                                                        "Jawaharlal Nehru Centre for Advanced Scientific Research,University,",
+                                                                                                                        "Jawaharlal Nehru Centre for Advanced Scientific Research,University",
                                                                                                                         "Jawaharlal Nehru Centre for Advanced Scientific Research,Bangalore",                               
                                                                                                                         "Jawaharlal Nehru Centre for Advanced Scientific Research",
                                                                                                                         "Molecular Biology and Genetics Unit Jawaharlal Nehru Centre for Advanced Scientific Research",
-                                                                                                                        "Jawaharlal Nehru Centre for Advanced Scientific Research(JNCASR), Bengaluru",
+                                                                                                                        "Jawaharlal Nehru Centre for Advanced Scientific Research(JNCASR),Bengaluru",
                                                                                                                         "JNCASR,Bengaluru",
                                                                                                                         "JNCASR,Bangalore",
                                                                                                                         "JNCASR,Karnataka"],
@@ -611,9 +611,9 @@
                                                                                 "Nitte University Mangalore",
                                                                                  "Nitte UniversityMangalore,Mangalore",   
                                                                                   "Nitte University,Mangalore",
-                                                                                  "Nitte University Center for Science Education and Research, Mangalore"",
-                                                                                  "Nitte University Centre for Science Education and Research (NUCSER), Mangalore",
-                                                                                  "NITTE, Mangalore",
+                                                                                  "Nitte University Center for Science Education and Research,Mangalore"",
+                                                                                  "Nitte University Centre for Science Education and Research (NUCSER),Mangalore",
+                                                                                  "NITTE,Mangalore",
                                                                                    "NITTE,Mangaluru"],
 "acronym":"NIITE","federation":"Deemed","city":"Mangalore","alt-city":"Mangaluru","District":"Mangalore","state":"Karnataka"}
 {"id":29917,"apID":"APINS00000","name":"Sri Devraj Urs Academy of Higher Education and Research,Kolar","alt-name":["Sri Devarj Urs Academy of Higher Education and Researcg,Kolar",
@@ -641,7 +641,7 @@
                                                                                                             "Swami Vivekananda Yoga Anusandhana Samsthana University (Prashanti Kutiram),Bengaluru",
                                                                                                             "Swami Vivekananda Yoga Anusandhana Samsthana, Kempegowda Nagar,Bengaluru,Karnataka,",
                                                                                                             "Swami Vivekananda Yoga Anusandhana Samsthana University (SVYASA University),Bengaluru",
-                                                                                                            "Swami Vivekananda Yoga Anusandhana Samsthana (S-VYASA) University (Prashanti Kutiram), University",    
+                                                                                                            "Swami Vivekananda Yoga Anusandhana Samsthana (S-VYASA) University (Prashanti Kutiram),University",    
                                                                                                             "Swami Vivekananda Yoga Anusandhana Samsthana (S-VYASA Yoga University),Bengaluru",
                                                                                                             "Swami Vivekananda Yoga Research Foundation (a Yoga University),Bengaluru",
                                                                                                             "(A Yoga University),Bengaluru",
@@ -979,7 +979,7 @@
                                                                                          "DEI Deemed University,Agra",
                                                                                          "DEI Deemed University,Uttar Pradesh"],
 "acronym":"DEI","federation":"Deemed","city":"Agra","alt-city":"","District":"Agra","state":"Uttar Pradesh "}
-{"id":2544,"apID":"APINS00000","name":"Jaypee Institute of Information Technology,Noida","alt-name":["Jaypee Institute of Information Technology University,Noida"",
+{"id":2544,"apID":"APINS00000","name":"Jaypee Institute of Information Technology,Noida","alt-name":["Jaypee Institute of Information Technology University,Noida",
                                                                                                       "Jaypee Institute of Information Technology,Uttar Pradesh",
                                                                                                       "Jaypee Institute of Information Technology (JIIT),Uttar Pradesh",
                                                                                                       "JIIT,Noida",
@@ -995,7 +995,7 @@
 "acronym":"NGB","federation":"Deemed","city":"Allahabad","alt-city":"","District":"Allahabad","state":"Uttar Pradesh"}
 {"id":23267,"apID":"APINS00000","name":"Sam Higginbottom Institute of Agriculture Technology And Sciences,Allahabad","alt-name":["Sam Higginbottom Institute of Agriculture Technology & Sciences,Allahabad",
                                                                                                 "SHUATS Deemed University,Allahabad",
-                                                                                                "Sam Higginbottom Institute of Agriculture Technology & Sciences,,Uttar Pradesh",
+                                                                                                "Sam Higginbottom Institute of Agriculture Technology & Sciences,Uttar Pradesh",
                                                                                                 "SHUATS University,Allahabad",
                                                                                                 "SHUATS University,Uttar Pradesh"],
 "acronym":"SHUATS","federation":"Deemed","city":"Allahabad","alt-city":"","District":"Allahabad","state":"Uttar Pradesh"}
@@ -1003,11 +1003,9 @@
                                                                              "Santosh Deemed University,Uttar Pradesh",
                                                                               "Santosh University,Uttar Pradesh"],
 "acronym":"","federation":"Deemed","city":"Ghaziabad","alt-city":"","District":"Ghaziabad","state":"Uttar Pradesh"}
-{"id":,"apID":"APINS00000","name":"Shobit Institute of Engineering And Technology,Meerut","alt-name":["Shobhit University,Meerut",
+{"id":,"apID":"APINS00000","name":"Shobit Institute of Engineering And Technology,Meerut","alt-name":["Shobit Institute of Engineering & Technology,Uttar Pradesh",
                                                                                                     "Shobit Institute of Engineering & Technology,Uttar Pradesh",
-                                                                                                    "Shobit Institute of Engineering & Technology/Shobit University,Uttar Pradesh",
-                                                                                                    "Shobhit University,Uttar Pradesh",
-                                                                                                    "Shobit Institute of Engineering & Technology,Meerut"],
+                                                                                                     "Shobit Institute of Engineering & Technology,Meerut"],
 "acronym":"","federation":"Deemed","city":"Meerut","alt-city":"","District":"Meerut","state":"Uttar Pradesh"}
 {"id":24432,"apID":"APINS00000","name":"Forest Research Institute,Dehradun","alt-name":["Forest Research Institute (DU),Dehradun",
                                                                                         "Forest Research Institute,Uttarakhand",
@@ -1028,7 +1026,7 @@
                                                                                     "Gurukul Kangri Vishwavidyalaya Deemed University,Haridwar",
                                                                                     "Gurukul Kangri Vishwavidyalaya Deemed University,Haridwar"],
 "acronym":"GKV","federation":"Deemed","city":"Haridwar","alt-city":"Hardwar","District":"Haridwar","state":"Uttarakhand"}
-{"id":,"apID":"APINS00000","name":"Ramakrishna Mission Vivekananda Educational and Research Institute,Howrah","alt-name":["Ramakrishna Mission Vivekananda Educational and Research Institute,,Haora",
+{"id":,"apID":"APINS00000","name":"Ramakrishna Mission Vivekananda Educational and Research Institute,Howrah","alt-name":["Ramakrishna Mission Vivekananda Educational and Research Institute,Haora",
                                                                                                                            "Ramakrishna Mission Vivekananda Educational and Research Institute/University,Howrah",
  "RKMVERI,Howrah",                                                                                                          "RKMVERI Deemed University,Howrah",
                                                                                                                             "RKMVERI Deemed University,Haora",
@@ -1135,7 +1133,7 @@
 {"id":309,"apID":"APINS00000","name":"Sumandeep Vidyapeeth,Vadodara","alt-name":["Sumandeep Vidyapeeth(DU),Baroda",
                                                                             "Sumandeep Vidyapeeth,Gujarat",
                                                                             "Sumandeep Vidyapeeth(DU),Vadodara",
-                                                                            "Sumandeep Vidyapeeth University.,Vadodara",
+                                                                            "Sumandeep Vidyapeeth University,Vadodara",
                                                                             "Sumandeep Vidyapeeth"],
 "acronym":"","federation":"Deemed","city":"Vadodara","alt-city":"Baroda","District":"Vadodara","state":"Gujarat"}
 {"id":,"apID":"APINS00000","name":"Lingaya University,Faridabad","alt-name":["Lingaya University(DU),Faridabad",
@@ -1201,7 +1199,7 @@
 {"id":2736,"apID":"APINS00000","name":"Sri Balaji Vidyapeeth,Puducherry","alt-name":["Sri Balaji Vidyapeeth,Pondicherry",
                                                                                         "Sri Balaji Vidyapeeth, Pillayarkuppam",
                                                                                         "Sri Balaji Vidyapeeth and Mahatma Gandhi Medical College,Puducherry",
-                                                                                        "Sri Balaji Vidyapeeth Puducherry,
+                                                                                        "Sri Balaji Vidyapeeth Puducherry",
                                                                                         "Sri Balaji Vidyapeeth [SBV] University,Puducherry",
                                                                                         "Mahatma Gandhi Medical College & Research Institute Sri Balaji Vidyapeeth University,Puducherry",
                                                                                         "Sri Balaji Vidyapeeth",
@@ -1363,45 +1361,144 @@
                                                                                 "Sikkim Central University,Sikkim",
                                                                                 "Sikkim University Tadong,Gangtok"],
 "acronym":"","federation":"UGC","city":"Gangtok","alt-city":"","District":"East Sikkim","state":"Sikkim"}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{"id":9699,"apID":"APINS00000","name":"Central University of Tamil Nadu,Thiruvarur","alt-name":["Central University of Tamil Nadu,Tiruvarur",
+                                                                                                "Central University of Tamil Nadu",
+                                                                                                "Central University of Tamil Nadu,Tamil nadu",
+                                                                                                "CUTN,Thiruvarur",
+                                                                                                "CUTN,Tiruvarur"],
+"acronym":"CUTN","federation":"UGC","city":"Thiruvarur","alt-city":"Tiruvarur","District":"Thiruvarur","state":"Tamil nadu"}
+{"id":,"apID":"APINS00000","name":"Indian Maritime University,Chennai","alt-name":["Indian Maritime University,Madras",
+                                                                                    "Indian Maritime University,Tamil Nadu",
+                                                                                    "IMU Central University,Tamil nadu",
+                                                                                    "IMU Central University,Madras",
+                                                                                    "IMU Central University,Chennai",
+                                                                                    "IMU,Chennai"],
+"acronym":"IMU","federation":"UGC","city":"Chennai","alt-city":"Madras","District":"Chennai","state":"Tamil nadu"}
+{"id":,"apID":"APINS00000","name":"Maulana Azad National Urdu University,Hyderabad","alt-name":["Maulana Azad National Urdu University,Telangana",
+                                                                                                "MANUU,Hyderabad",
+                                                                                                "MANUU,Telangana",
+                                                                                                "MANUU Central University,Hyderabad",
+                                                                                                "MANUU Central University,Telangana"],
+"acronym":"MANUU","federation":"UGC","city":"Hyderabad","alt-city":"","District":"Hyderabad","state":"Telangana"}
+{"id":,"apID":"APINS00000","name":"The English and Foreign Languages University,Hyderabad","alt-name":["The English and Foreign Languages University,Telangana",
+                                                                                                "EFLU,Hyderabad",
+                                                                                                "EFLU,Telangana",
+                                                                                                "EFLU Central University,Hyderabad",
+                                                                                                "EFLU Central University,Telangana"],
+"acronym":"EFLU","federation":"UGC","city":"Hyderabad","alt-city":"","District":"Hyderabad","state":"Telangana"}
+{"id":7564,"apID":"APINS00000","name":"University of Hyderabad,Hyderabad","alt-name":["University of Hyderabad Campus,Telangana",
+                                                                                      "UoH,Hyderabad",
+                                                                                      "UoH,Telangana",
+                                                                                      "UoH Central University,Hyderabad",
+                                                                                      "UoH Central University,Telangana"],
+"acronym":"UoH","federation":"UGC","city":"Hyderabad","alt-city":"","District":"Hyderabad","state":"Telangana"}
+{"id":532,"apID":"APINS00000","name":"Tripura University,Agartala","alt-name":["Tripura University,Tripura",
+                                                                                 "Tripura University (A Central University),Tripura",
+                                                                                 "Tripura University (A Central University),Agartala"],
+"acronym":"","federation":"UGC","city":"Agartala","alt-city":"","District":"West Tripura","state":"Tripura"}
+{"id":399,"apID":"APINS00000","name":"Aligarh Muslim University,Aligarh","alt-name":["Aligarh Muslim University,Uttar pradesh",
+                                                                                        "Aligarh Muslim University Central University,Aligarh",
+                                                                                        "Aligarh Muslim University Central University,Uttar pradesh",
+                                                                                        "AMU Central University,Aligarh",
+                                                                                        "AMU Central University,Uttar pradesh"],
+"acronym":"AMU","federation":"UGC","city":"Aligarh","alt-city":"","District":"Aligarh","state":"Uttar pradesh"}
+{"id":616,"apID":"APINS00000","name":"Babasaheb Bhimrao Ambedkar University,Lucknow","alt-name":["Babasaheb Bhimrao Ambedkar University,Uttar pradesh",
+                                                                                        "Babasaheb Bhimrao Ambedkar University Central University,Lucknow",
+                                                                                        "Babasaheb Bhimrao Ambedkar University Central University,Uttar pradesh",
+                                                                                        "BBAU Central University,Lucknow",
+                                                                                        "BBAU Central University,Uttar pradesh"],
+"acronym":"BBAU","federation":"UGC","city":"Lucknow","alt-city":"","District":"Lucknow","state":"Uttar pradesh"}
+{"id":575,"apID":"APINS00000","name":"Banaras Hindu University,Varanasi","alt-name":["Banaras Hindu University,Uttar pradesh",
+                                                                                        "Banaras Hindu University,Kashi",
+                                                                                        "Banaras Hindu University,Banaras",
+                                                                                        "BHU Central University,Varanasi",
+                                                                                        "BHU Central University,Kashi",
+                                                                                        "BHU Central University,Banaras",
+                                                                                        "BHU Central University,Uttar pradesh"],
+"acronym":"BHU","federation":"UGC","city":"Varanasi","alt-city":["Kashi","Banaras"],"District":"Varanasi","state":"Uttar pradesh"}
+{"id":575,"apID":"APINS00000","name":"Rajiv Gandhi National Aviation University,Raebareli","alt-name":["Rajiv Gandhi National Aviation University,Uttar pradesh",
+                                                                                                        "RGNAU Central University,Raebareli",
+                                                                                                        "RGNAU Central University,Kashi"],
+"acronym":"RGNAU","federation":"UGC","city":"Raebareli","alt-city":"","District":"Raebareli","state":"Uttar pradesh"}
+{"id":17425,"apID":"APINS00000","name":"Rani Lakshmi Bai Central Agricultural University,Jhansi","alt-name":["Rani Lakshmi Bai Central Agricultural University,Uttar pradesh",
+                                                                                                                "RLBCAU Central University,Jhansi",
+                                                                                                                "RLBCAU Central University,Kashi"],
+"acronym":"RLBCAU","federation":"UGC","city":"Jhansi","alt-city":"","District":"Jhansi","state":"Uttar pradesh"}
+{"id":3209,"apID":"APINS00000","name":"University of Allahabad,Jhansi","alt-name":["Rani Lakshmi Bai Central Agricultural University,Uttar pradesh",
+                                                                                     "RLBCAU Central University,Jhansi",
+                                                                                     "RLBCAU Central University,Kashi"],
+"acronym":"RLBCAU","federation":"UGC","city":"Jhansi","alt-city":"","District":"Jhansi","state":"Uttar pradesh"}
+{"id":3209,"apID":"APINS00000","name":"University of Allahabad,Allahabad","alt-name":["University of Allahabad",
+                                                                                     "Centre of Biotechnology (University of Allahabad),Allahabad",
+                                                                                     "UOA,Allahabad",
+                                                                                     "UOA,Uttar pradesh",
+                                                                                     "University of Allahabad,Uttar pradesh"],
+"acronym":"UOA","federation":"UGC","city":"Allahabad","alt-city":"","District":"Allahabad","state":"Uttar pradesh"}
+{"id":12353,"apID":"APINS00000","name":"Hemwati Nandan Bahuguna Garhwal University,Srinagar","alt-name":["Hemwati Nandan Bahuguna Garhwal University (Pauri Campus),Pauri Garhwal",
+                                                                                                        "Hemwati Nandan Bahuguna Garhwal University,Pauri Garhwal",
+                                                                                                        "Hemwati Nandan Bahuguna Garhwal University (A Central University),Srinagar",
+                                                                                                        "Hemwati Nandan Bahuguna Garhwal University",
+                                                                                                        "Hemwati Nandan Bahuguna Garhwal University,Uttarakhand"],
+"acronym":"","federation":"UGC","city":"Srinagar","alt-city":"","District":"Pauri Garhwal","state":"Uttarakhand"}
+{"id":10670,"apID":"APINS00000","name":"Indira Gandhi National Open University,New Delhi","alt-name":["Indira Gandhi National Open University,Delhi",
+                                                                                                       "Indira Gandhi National Open University (IGNOU),New Delhi",
+                                                                                                       "IGNOU,Delhi",
+                                                                                                       "IGNOU,New Delhi"],
+"acronym":"IGNOU","federation":"UGC","city":"New Delhi","alt-city":"Delhi","District":"New Delhi","state":"New Delhi"}
+{"id":14857,"apID":"APINS00000","name":"Indira Gandhi National Open University,Bengaluru","alt-name":["Indira Gandhi National Open University,Bangalore",
+                                                                                                        "Indira Gandhi National Open University (IGNOU),Bengaluru",
+                                                                                                        "IGNOU Regional Centre,Bengaluru",
+                                                                                                        "Indira Gandhi National Open University Regional Centre,Bengaluru",
+                                                                                                       "IGNOU Regional Centre,Bangalore",
+                                                                                                        "IGNOU Regional Centre,Karnataka"],
+"acronym":"IGNOU","federation":"UGC","city":"Bengaluru","alt-city":"Bangalore","District":"Bengaluru","state":"Karnataka"}
+{"id":15896,"apID":"APINS00000","name":"Indira Gandhi National Open University,Darbhanga","alt-name":["Indira Gandhi National Open University,Bihar",
+                                                                                                        "Indira Gandhi National Open University (IGNOU),Darbhanga",
+                                                                                                        "Indira Gandhi National Open University Regional Centre,Darbhanga",
+                                                                                                        "IGNOU Regional Centre,Darbhanga",
+                                                                                                        "IGNOU Regional Centre,Bihar"],
+"acronym":"IGNOU","federation":"UGC","city":"Darbhanga","alt-city":"","District":"Darbhanga","state":"Bihar"}
+{"id":,"apID":"APINS00000","name":"Jamia Millia Islamia,New Delhi","alt-name":["Jamia Millia Islamia University,Delhi",
+                                                                                "Jamia Millia Islamia University (IGNOU),New Delhi",
+                                                                                "Jamia Millia Islamia Central University,Delhi",
+                                                                                "Jamia Millia Islamia Central University,New Delhi",
+                                                                                "JMI,Delhi",
+                                                                                "JMI,New Delhi"],
+"acronym":"JMI","federation":"UGC","city":"New Delhi","alt-city":"Delhi","District":"New Delhi","state":"New Delhi"}
+{"id":381,"apID":"APINS00000","name":"waharlal Nehru University,New Delhi","alt-name":["Jawaharlal Nehru University (JNU),New Delhi",
+                                                                                "Jawaharlal Nehru University (J.N.U.),New Delhi",
+                                                                                "Jawaharlal Nehru University Campus,New Delhi",
+                                                                                "Jawaharlal Nehru University,Delhi",
+                                                                                "JMI,Delhi",
+                                                                                "JMI,New Delhi"],
+"acronym":"JNU","federation":"UGC","city":"New Delhi","alt-city":"Delhi","District":"New Delhi","state":"New Delhi"}
+{"id":,"apID":"APINS00000","name":"Jwaharlal Nehru University,New Delhi","alt-name":["Jawaharlal Nehru University (JNU),New Delhi",
+                                                                                "Jawaharlal Nehru University (J.N.U.),New Delhi",
+                                                                                "Jawaharlal Nehru University Campus,New Delhi",
+                                                                                "Jawaharlal Nehru University,Delhi",
+                                                                                "JMI,Delhi",
+                                                                                "JMI,New Delhi"],
+"acronym":"JNU","federation":"UGC","city":"New Delhi","alt-city":"Delhi","District":"New Delhi","state":"New Delhi"}
+{"id":7350,"apID":"APINS00000","name":"University Of Delhi,New Delhi","alt-name":["University College of Medical Science (University of Delhi),New Delhi",
+                                                                                "University of Delhi South Campus (UDSC),New Delhi",
+                                                                                "University of Delhi (South Campus),New Delhi",
+                                                                                "University of Delhi,Delhi",
+                                                                                "JMI,Delhi",
+                                                                                "JMI,New Delhi"],
+"acronym":"DU","federation":"UGC","city":"New Delhi","alt-city":"Delhi","District":"New Delhi","state":"New Delhi"}
+{"id":,"apID":"APINS00000","name":"Hindu College University Of Delhi,New Delhi","alt-name":["Hindu College University of Delhi,Delhi"],
+"acronym":"DU","federation":"UGC","city":"New Delhi","alt-city":"Delhi","District":"New Delhi","state":"New Delhi"}
+{"id":8086,"apID":"APINS00000","name":"Pondicherry University,Puducherry","alt-name":["Pondicherry Central University,Puducherry ",
+                                                                                      "Pondicherry Central University,Pondicherry",
+                                                                                       "Pondicherry University, Kalapet",
+                                                                                        "Pondicherry University,Pondicherry", 
+                                                                                        "Pondicherry University (A Central University),Puducherry",
+                                                                                        "Pondicherry University (A Central University),Pondicherry"],
+"acronym":"","federation":"UGC","city":"Puducherry","alt-city":"Pondicherry","District":"Puducherry","state":"Puducherry"}
+{"id":,"apID":"APINS00000","name":"Apex Professional University,East Siang","alt-name":["Apex Professional University,Arunachal Pradesh",
+                                                                                        "APU,East Siang",
+                                                                                        "APU,Arunachal Pradesh"],
+"acronym":"APU","federation":"","city":"East Siang","alt-city":"","District":"East Siang","state":"Arunachal Pradesh"}
 
 
 
