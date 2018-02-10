@@ -533,7 +533,7 @@
 "acronym":"IIST","federation":"Deemed","city":"Thiruvananthapuram","alt-city":"Trivandrum","District":"Thiruvananthapuram","state":"Kerala"}
 {"id":,"apID":"APINS00000","name":"Kerala Kalamandalam,Thrissur","alt-name":["Kerala Kalamandalam,Trichur",
                                                                              "Kerala Kalamandalam,Kerala",
-                                                                            "Kerala Kalamandalam Deemed University of Art and Culture,Thrissur"",       
+                                                                            "Kerala Kalamandalam Deemed University of Art and Culture,Thrissur",       
                                                                              "Kerala Kalamandalam Deemed University of Art and Culture,Trichur",
                                                                              "Kerala Kalamandalam Deemed University of Art and Culture,Kerala"],
 "acronym":"","federation":"Deemed","city":"Thrissur","alt-city":"Trichur","District":"Thrissur","state":"Kerala"}
@@ -611,8 +611,8 @@
                                                                                 "Nitte University Mangalore",
                                                                                  "Nitte UniversityMangalore,Mangalore",   
                                                                                   "Nitte University,Mangalore",
-                                                                                  "Nitte University Center for Science Education and Research, Mangalore"",
-                                                                                  "Nitte University Centre for Science Education and Research (NUCSER), Mangalore",
+                                                                                  "Nitte University Center for Science Education and Research,Mangalore",
+                                                                                  "Nitte University Centre for Science Education and Research (NUCSER),Mangalore",
                                                                                   "NITTE, Mangalore",
                                                                                    "NITTE,Mangaluru"],
 "acronym":"NIITE","federation":"Deemed","city":"Mangalore","alt-city":"Mangaluru","District":"Mangalore","state":"Karnataka"}
@@ -639,9 +639,9 @@
                                                                                                             "Swami Vivekananda Yoga Anusandhana Samsthana (S-VYASA) University, University", 
                                                                                                             "(S-VYASA) University, University",
                                                                                                             "Swami Vivekananda Yoga Anusandhana Samsthana University (Prashanti Kutiram),Bengaluru",
-                                                                                                            "Swami Vivekananda Yoga Anusandhana Samsthana, Kempegowda Nagar,Bengaluru,Karnataka,",
+                                                                                                            "Swami Vivekananda Yoga Anusandhana Samsthana, Kempegowda Nagar,Bengaluru,Karnataka",
                                                                                                             "Swami Vivekananda Yoga Anusandhana Samsthana University (SVYASA University),Bengaluru",
-                                                                                                            "Swami Vivekananda Yoga Anusandhana Samsthana (S-VYASA) University (Prashanti Kutiram), University",    
+                                                                                                            "Swami Vivekananda Yoga Anusandhana Samsthana (S-VYASA) University (Prashanti Kutiram),University",    
                                                                                                             "Swami Vivekananda Yoga Anusandhana Samsthana (S-VYASA Yoga University),Bengaluru",
                                                                                                             "Swami Vivekananda Yoga Research Foundation (a Yoga University),Bengaluru",
                                                                                                             "(A Yoga University),Bengaluru",
