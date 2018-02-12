@@ -1,4 +1,4 @@
-{"id":,"apID":"APINS00000","name":"","alt-name":", ","acronym":"","federation":"","city":"","alt-city":"","District":"","state":""}
+{"id":,"apID":"APINS00000","name":"","alt-name":", ","acronym":"","federation":"","city":"","alt-city":"","District":"","state":""},
 
 
 
@@ -1745,11 +1745,9 @@
 {"id":22957,"name":"Department of Electronics and Communication Engineering, JNTU Hyderabad, Hyderabad, India., Hyderabad","city":"Hyderabad","state":""}
 {"id":22958,"name":"Aditya College of Engineering,  ","city":" ","state":""}
 {"id":22959,"name":"Dr. N.T.R. University of Health Sciences, University","city":"University","state":""}
-{"id":22960,"name":"ICFAI University,  ","city":" ","state":""}
-{"id":22961,"name":"The ICFAI University,  ","city":" ","state":""}
-{"id":22962,"name":"ICFAI University Mizoram, Aizawl","city":"Aizawl","state":""}
 {"id":22965,"name":"J N Medical College, Bhopal","city":"Bhopal","state":"Madhya pradesh"}
 {"id":22969,"name":"Dharamsi Hospital,  ","city":" ","state":""}
+{"id":22962,"name":"ICFAI University Mizoram, Aizawl","city":"Aizawl","state":""}
 {"id":22970,"name":"Institute of Digestive and Liver Disease, Guwahati","city":"Guwahati","state":""}
 {"id":22971,"name":"Liver Clinic, U-9 Jolly Plaza, Athwagate, Surat, 395 001, India.,  ","city":" ","state":""}
 {"id":22972,"name":"Midas Institute of Gastroenterology, Nagpur","city":"Nagpur","state":""}
@@ -2437,16 +2435,10 @@
 {"id":24603,"name":"Department of Psychiatry, NIMHANS, Bangalore, 560029, India., Bangalore","city":"Bangalore","state":""}
 {"id":24634,"name":"Department of Pharmaceutical Biotechnology, New Delhi","city":"New Delhi","state":""}
 {"id":24636,"name":"a Jiwaji University,  ","city":" ","state":""}
-{"id":24637,"name":"b ITM University,  ","city":" ","state":""}
-{"id":24638,"name":"ITM University, Gwalior","city":"Gwalior","state":"Madhya pradesh"}
 {"id":24639,"name":"Visvesvaraya Technological University, Bangalore","city":"Bangalore","state":""}
 {"id":24640,"name":"Central Salt and Marine Chemicals Research Institute (CSIR-CSMCRI),  ","city":" ","state":""}
 {"id":24642,"name":"ICAR-Central Research Institute for Jute and Allied Fibre, Kolkata","city":"Kolkata","state":""}
-{"id":24643,"name":"ITM University,  ","city":" ","state":""}
 {"id":24644,"name":"ICAR-National Rice Research Institute,  ","city":" ","state":""}
-{"id":24645,"name":"THE NORTHCAP University (Formerly ITM University), Gurgaon","city":"Gurgaon","state":""}
-{"id":24646,"name":"The Northcap University, Gurgaon","city":"Gurgaon","state":"Haryana"}
-{"id":24647,"name":"ITM University, Gurgaon","city":"Gurgaon","state":""}
 {"id":24648,"name":"Defence Institute of Physiology and Allied Sciences (DIPAS), New Delhi","city":"New Delhi","state":""}
 {"id":24649,"name":"YMCA University of Science &Technology,  ","city":" ","state":""}
 {"id":24650,"name":"Baba Raghav Das Medical College,  ","city":" ","state":""}
@@ -3298,7 +3290,6 @@
 {"id":26344,"name":"National Agri-Food Biotechnology Institute, Navi Mumbai","city":"Navi Mumbai","state":""}
 {"id":26345,"name":"Department of Biological Sciences, BITS Pilani, Pilani Campus, Pilani, Rajasthan India., Navi Mumbai","city":"Navi Mumbai","state":""}
 {"id":26346,"name":"D. Y. Patil University, Navi Mumbai","city":"Navi Mumbai","state":""}
-{"id":26347,"name":"Amity University, Mumbai","city":"Mumbai","state":"Maharashtra"}
 {"id":26348,"name":"National Agri-Food Biotechnology Institute Mohali,  ","city":" ","state":""}
 {"id":26349,"name":"Government College for Girls-Sector 42, Chandigarh","city":"Chandigarh","state":""}
 {"id":26354,"name":"Bengal College of Engineering and Technology, University","city":"University","state":""}
@@ -3383,7 +3374,6 @@
 {"id":26640,"name":"National Institute of Malaria Research (ICMR) Field Unit,  ","city":" ","state":""}
 {"id":26641,"name":"Bill and Melinda Gates Foundation, New Delhi","city":"New Delhi","state":""}
 {"id":26645,"name":"Ministry of Science and Technology (Government of India)Mohali, Mohali","city":"Mohali","state":""}
-{"id":26646,"name":"Assam Don Bosco University,  ","city":" ","state":""}
 {"id":26647,"name":"National Insitute for Abiotic Stress Management (NIASM), Pune, Maharashtra, India., Patancheru","city":"Patancheru","state":""}
 {"id":26648,"name":"a National Institute Abiotic Stress Management, Pune","city":"Pune","state":""}
 {"id":26654,"name":"Dr Somervell Memorial CSI Medical College,  ","city":" ","state":""}
@@ -4040,7 +4030,6 @@
 {"id":28467,"name":"Indian Institute of Technology DelhiNew Delhi, Delhi","city":"Delhi","state":"New delhi"}
 {"id":28468,"name":"Dr. Harisingh Gour University Central University Sagar,  ","city":" ","state":""}
 {"id":28470,"name":"Government Ramanuj Pratap Singhdev Post Graduate College Baikunthpur,  ","city":" ","state":""}
-{"id":28479,"name":"Amity University Uttar Pradesh,  ","city":" ","state":""}
 {"id":28481,"name":"Govt. V. Y. T. P. G. Autonomous College, Durg","city":"Durg","state":""}
 {"id":28482,"name":"Udai Pratap Autonomous PG College, Varanasi","city":"Varanasi","state":""}
 {"id":28485,"name":"Sarguja University Baikunthpur,  ","city":" ","state":""}
@@ -4146,7 +4135,6 @@
 {"id":28706,"name":"Healing Touch City Clinic,  547, Sector 16-D, Chandigarh, 160015, India., Chandigarh","city":"Chandigarh","state":""}
 {"id":28707,"name":"Cardio Rheuma and Healing Touch City Clinic, Chandigarh, India., Chandigarh","city":"Chandigarh","state":""}
 {"id":28708,"name":"Natural Products Research Laboratory, Mohali","city":"Mohali","state":""}
-{"id":28709,"name":"AMITY University Haryana, Gurgaon","city":"Gurgaon","state":""}
 {"id":28711,"name":"Technical Physics Division, Mumbai","city":"Mumbai","state":""}
 {"id":28712,"name":"Department of Biological Sciences, SHIATS, Allahabad, India.,  ","city":" ","state":""}
 {"id":28713,"name":"Fortis Multi-Speciality Hospital, Chandigarh","city":"Chandigarh","state":""}
@@ -5540,7 +5528,6 @@
 {"id":31965,"name":"Center of Biomedical Research, Lucknow","city":"Lucknow","state":""}
 {"id":31966,"name":"- Uttarakhand Technical University, Lucknow","city":"Lucknow","state":"Uttar pradesh"}
 {"id":31969,"name":"d Division of Microbiology, CSIR-CDRI , Lucknow, Uttar Pradesh , India., Lucknow","city":"Lucknow","state":""}
-{"id":31970,"name":"Amity University Uttar Pradesh (Lucknow Campus), Lucknow","city":"Lucknow","state":""}
 {"id":31971,"name":"U.P. Technical University, Lucknow","city":"Lucknow","state":""}
 {"id":32025,"name":"Purdue Research Park, Indianapolis","city":"Indianapolis","state":""}
 {"id":32038,"name":"IFTM University,  ","city":" ","state":""}
@@ -6285,7 +6272,6 @@
 {"id":434,"name":"Bidhan Chandra Krishi Viswavidyalaya,  ","city":" ","state":""}
 {"id":438,"name":"CSIR-Institute of Himalayan Bioresource Technology (CSIR-IHBT) Campus,  ","city":" ","state":""}
 {"id":448,"name":"National Centre for Disease Control, Delhi","city":"Delhi","state":""}
-{"id":449,"name":"Amity University, Noida","city":"Noida","state":"Uttar pradesh"}
 {"id":463,"name":"Tamil Nadu Fisheries University,  ","city":" ","state":""}
 {"id":516,"name":"ICAR-Central Island Agricultural Research Institute, Port Blair","city":"Port Blair","state":"Andaman and nicobar islands"}
 {"id":517,"name":"ICAR-Central Institute of Brackishwater Aquaculture, Chennai","city":"Chennai","state":""}
@@ -6656,7 +6642,6 @@
 {"id":1019,"name":"Sahara Centre for Residential Care and Rehabilitation, New Delhi","city":"New Delhi","state":""}
 {"id":1102,"name":"CSIR-Centre for Cellular and Molecular Biology,  ","city":" ","state":""}
 {"id":1107,"name":"International Centre for Genetic Engineering and Biotechnology,  ","city":" ","state":""}
-{"id":1109,"name":"Amity University Haryana,  ","city":" ","state":""}
 {"id":3283,"name":"Base Hospital,  ","city":" ","state":""}
 {"id":969,"name":"JN Medical College., Aligarh","city":"Aligarh","state":"Uttar pradesh"}
 {"id":986,"name":"53 University Road, Lucknow","city":"Lucknow","state":""}
@@ -7220,7 +7205,6 @@
 {"id":1964,"name":"The Institute of Science, Mumbai","city":"Mumbai","state":""}
 {"id":1991,"name":"North Orissa University,  ","city":" ","state":""}
 {"id":2054,"name":"Department of Nephrology, PGIMER, Chandigarh, India., Chandigarh","city":"Chandigarh","state":""}
-{"id":1999,"name":"Amity University,  ","city":" ","state":""}
 {"id":2010,"name":"K. S. Rangasamy College of Technology,  ","city":" ","state":""}
 {"id":2025,"name":"K.S. Rangasamy College of Technology, Tiruchengode","city":"Tiruchengode","state":""}
 {"id":2027,"name":"SRM University, Chennai","city":"Chennai","state":""}
@@ -7576,7 +7560,6 @@
 {"id":2564,"name":"Sanjay Gandhi Post Graduate Institute of Medical Science, Lucknow","city":"Lucknow","state":""}
 {"id":2579,"name":"Presidency University, Kolkata","city":"Kolkata","state":"West bengal"}
 {"id":2585,"name":"WHO Collaborating Centre for Reference and Research on Rabies, Bangalore","city":"Bangalore","state":""}
-{"id":2587,"name":"Amity University, Gwalior","city":"Gwalior","state":"Madhya pradesh"}
 {"id":2588,"name":"Biotechnology Division, Gwalior","city":"Gwalior","state":""}
 {"id":2592,"name":"Sastra University,  ","city":" ","state":""}
 {"id":2610,"name":"Indian Agricultural Research Institute (IARI), New Delhi","city":"New Delhi","state":""}
