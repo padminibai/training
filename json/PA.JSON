@@ -1,4 +1,4 @@
-{"id":,"apID":"APINS00000","name":"","alt-name":", ","acronym":"","federation":"","city":"","alt-city":"","District":"","state":""},
+{"id":"","apID":"APINS00000","name":"","alt-name":", ","acronym":"","federation":"","city":"","alt-city":"","District":"","state":""},
 
 
 
@@ -2179,7 +2179,6 @@
 {"id":23882,"name":"Medanta The Medicity, New Delhi, India., New Delhi","city":"New Delhi","state":""}
 {"id":23935,"name":"Global Coalition of TB Activists, Delhi, India., Delhi","city":"Delhi","state":""}
 {"id":23939,"name":"Indus International University, Una","city":"Una","state":"Himachal pradesh"}
-{"id":23956,"name":"Indus University, Ahmedabad","city":"Ahmedabad","state":"Gujarat"}
 {"id":23957,"name":"Fortis Escorts Hospital,  ","city":" ","state":""}
 {"id":23958,"name":"Health Action by People, India.,  ","city":" ","state":""}
 {"id":23961,"name":"Seth G. S. Medical College and KEM Hospital, Mumbai","city":"Mumbai","state":""}
@@ -2581,7 +2580,6 @@
 {"id":24865,"name":"Gayatri Vidya Parishad College of Engineering, Shaker Heights","city":"Shaker Heights","state":"Andhra pradesh"}
 {"id":24869,"name":"Jaypee University of Engineering and Technology, Guna","city":"Guna","state":""}
 {"id":25035,"name":"J.S.S. Medical College, Mysore","city":"Mysore","state":""}
-{"id":24874,"name":"Jaypee University of Engineering & Technology, Guna","city":"Guna","state":"Madhya pradesh"}
 {"id":24880,"name":"1 Bioclues Organization, Kukatpally, Hyderabad 500072, Telangana, India., Hyderabad","city":"Hyderabad","state":""}
 {"id":24881,"name":"National Institute of TB and Respiratory Diseases, New Delhi","city":"New Delhi","state":""}
 {"id":24889,"name":"Dr. Rajendra Prasad Government Medical College Kangra, Tanda","city":"Tanda","state":""}
